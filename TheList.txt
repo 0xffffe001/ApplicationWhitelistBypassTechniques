@@ -12,7 +12,7 @@
 
 This technique may work in certain environments.  Its relies on the fact that many organizations trust executables signed
 by Microsoft.  We can misuse this trust by launching a specially crafted .NET application. 
-Example Here: http://www.room362.com/blog/2014/01/16/application-whitelist-bypass-using-ieexec-dot-exe/
+Example Here: https://room362.com/post/2014/2014-01-16-application-whitelist-bypass-using-ieexec-dot-exe/
 
 2.  Rundll32.exe
 
@@ -54,7 +54,6 @@ https://www.defcon.org/images/defcon-21/dc-21-presentations/Bialek/DEFCON-21-Bia
 
 13. Msbuild.exe
     http://subt0x10.blogspot.com/2016/09/bypassing-application-whitelisting.html
-
 
 
 I'd love to hear other techniques
